@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/home/cluster/Apache-Docker/TextSimilarity/src/main/scala/TextSimilarity.scala:19:73: value split is not a member of Char[0m
+[0m[[0m[31merror[0m] [0m[0m    val documents: RDD[Seq[String]] = SparkFiles.get("input.txt").map(_.split(" ").toSeq)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cluster/Apache-Docker/TextSimilarity/src/main/scala/TextSimilarity.scala:19:70: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: org.apache.spark.rdd.RDD[Seq[String]][0m
+[0m[[0m[31merror[0m] [0m[0m    val documents: RDD[Seq[String]] = SparkFiles.get("input.txt").map(_.split(" ").toSeq)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

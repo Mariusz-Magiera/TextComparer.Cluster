@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/cluster/Apache-Docker/TextSimilarity/target/scala-2.11/textsimilarity_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextSimilarity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cluster/Apache-Docker/TextSimilarity/target/scala-2.11/classes/TextSimilarity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextSimilarity$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cluster/Apache-Docker/TextSimilarity/target/scala-2.11/classes/TextSimilarity$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextSimilarity$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cluster/Apache-Docker/TextSimilarity/target/scala-2.11/classes/TextSimilarity$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextSimilarity$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cluster/Apache-Docker/TextSimilarity/target/scala-2.11/classes/TextSimilarity$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextSimilarity$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cluster/Apache-Docker/TextSimilarity/target/scala-2.11/classes/TextSimilarity$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
